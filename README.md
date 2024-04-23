@@ -1,6 +1,6 @@
-# Project Name
+# Vue project
 
-A brief description of what your project does.
+A brief description of what the project does.
 
 ## Table of Contents
 
